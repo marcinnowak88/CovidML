@@ -1,0 +1,18 @@
+# Ignorowanie plików systemowych i konfiguracji IDE
+.DS_Store
+.idea/
+
+# Ignorowanie wirtualnego środowiska
+venv/
+
+# Ignorowanie dużych danych treningowych
+COVID-19_Radiography_Dataset/
+train_data/
+val_data/
+
+# Ignorowanie plików cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+
+
